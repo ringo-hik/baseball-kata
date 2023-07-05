@@ -1,1 +1,6 @@
-# baseball-kata
+## Baseball
+---
+Baseball KATA
+* hello
+* good to see you
+
